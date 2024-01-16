@@ -1,0 +1,11 @@
+{
+ "versionPath":"C:\\Users\\<username>\\AppData\\Local\\Roblox\\Versions\\version-88cfc23f4e7d4e4b",
+ "RobloxPath":"C:\\Users\\<username>\\AppData\\Local\\Roblox",
+ "loopThroughCookies":true,
+ "threads":10,
+ "leaveAfter":{
+    "visitBot":true,
+    "seconds":10
+ },
+ "upc":false
+}
