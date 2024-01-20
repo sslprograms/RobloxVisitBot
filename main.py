@@ -157,7 +157,7 @@ while True:
                 time.sleep(config['leaveAfter']['seconds'])
                 subprocess.getoutput('taskkill /f /im RobloxPlayerBeta.exe')
 
-            # time.sleep(30)
+            time.sleep(30)
             threads = 0
 
     if config['leaveAfter']['visitBot'] == False:
